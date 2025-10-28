@@ -7,24 +7,6 @@
     }
 
     $nomor = 0;
-
-    // mysqli_fetch_row()
-    // mysqli_fetch_assoc()
-    // mysqli_fetch_array() //bisa row bisa assoc
-    // mysqli_fetch_object()
-
-    // $mhs = mysqli_fetch_row($result);
-    // var_dump(($mhs[1]));
-
-    // $mhs = mysqli_fetch_assoc($result);
-    // var_dump(($mhs["nim"]));
-
-    // $mhs = mysqli_fetch_object($result);
-    // var_dump($mhs->nim);
-
-    // while ($mhs = mysqli_fetch_object($result)) {
-    //     var_dump($mhs->nim);
-    // } //! biar loop sampe isinya habis
 ?>
 
 <!DOCTYPE html>
