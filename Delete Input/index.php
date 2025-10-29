@@ -7,6 +7,7 @@
     }
 
     $nomor = 0;
+    
 ?>
 
 <!DOCTYPE html>
@@ -45,6 +46,7 @@
                 </tr>
             <?php endwhile; ?>
         </table>
+        <a href="tambah.php" class=" text-white hover:text-blue-600 text-center">Tambah Data Mahasiswa</a>
     </div>
 </body>
 </html>
