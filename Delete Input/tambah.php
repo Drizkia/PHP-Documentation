@@ -16,7 +16,6 @@
             echo "Data Gagal di Input";
         }
     }
-
 ?>
 
 <!DOCTYPE html>
